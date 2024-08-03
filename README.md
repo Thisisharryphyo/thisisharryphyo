@@ -1,4 +1,4 @@
-![](mypic.png) 
+![](Mypic.png) 
 
 <h1 align="center">Hi 👋, I'm Harry Phyo</h1>
 <h3 align="center">A Sports Data Scientist from Myanmar</h3>
